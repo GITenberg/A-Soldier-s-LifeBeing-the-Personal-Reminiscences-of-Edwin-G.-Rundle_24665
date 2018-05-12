@@ -1,0 +1,36 @@
+_repo: A-Soldier-s-LifeBeing-the-Personal-Reminiscences-of-Edwin-G.-Rundle_24665
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Woodside, Henry J.
+    gutenberg_agent_id: '26657'
+    url: http://www.gutenberg.org/2009/agents/26657
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rundle, Edwin George
+    birthdate: 1838
+    gutenberg_agent_id: '26656'
+    url: http://www.gutenberg.org/2009/agents/26656
+description: ''
+gutenberg_issued: '2008-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographies'
+- !lcsh 'Canada -- History, Military'
+- !lcsh 'Canada -- Description and travel'
+- !lcc 'F1001'
+- !lcc 'CT'
+- !lcsh 'Great Britain. Army -- Military life'
+- !lcsh 'Canada -- History -- Fenian Invasions, 1866-1870'
+- !lcc 'U'
+title: 'A Soldier''s Life: Being the Personal Reminiscences of Edwin G. Rundle'
+url: http://www.gutenberg.org/ebooks/24665
